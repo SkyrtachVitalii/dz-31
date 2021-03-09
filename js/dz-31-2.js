@@ -34,4 +34,5 @@ function changeBalanceDZ31(){
         fullBalance.innerText = inputBalance;
         console.log(inputBalance);
     }
+    console.log(balance);
 }
